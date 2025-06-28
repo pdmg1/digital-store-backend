@@ -1,6 +1,3 @@
----
-
-````markdown
 # Digital Store Backend
 
 API backend para a loja digital, construída com Node.js e Express.  
